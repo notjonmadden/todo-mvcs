@@ -1,0 +1,19 @@
+{
+  "name": "TodoMvc",
+  "version": "0.1.0",
+  "description": "A collection of TodoMvc implementations using various frameworks and backends.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.13.3",
+    "pg": "~4.4.1",
+    "backbone.marionette": "^2.4.3",
+    "ember": "^1.0.0-pre.2",
+    "ember-cli": "^1.13.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Madden",
+  "license": "MIT"
+}
